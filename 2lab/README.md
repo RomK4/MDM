@@ -1,5 +1,5 @@
 # Необходимые функции
-matplotlib - построение графиков.
+matplotlib - построение графиков. 
 Для установки на линуксе введите в консоль:
 'sudo apt-get install pip' 	
 'python3 -mpip install -U pip'
